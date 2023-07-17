@@ -1,0 +1,21 @@
+.name{
+    
+    font-size: 30px;
+    line-height: 30px;
+    color: transparent;
+    /* -webkit-text-stroke: 1px #FFC700; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* line-height: 200px; */
+    background-size: contain;
+    /* background-repeat: repeat; */
+    background-image: url(../../assets/images/marbled-blue-abstract-background-liquid-marble-pattern\ \(1\).jpg);
+    background-clip: text;
+    /* background-position: 400px 200px ; */
+    animation: forward 80s linear infinite;
+    cursor: pointer;
+}
+@keyframes forward{
+    100%{
+        background-position: 1000px 1000px;
+    }
+}

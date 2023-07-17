@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "image":"https://i.ibb.co/HxPqCYZ/web-developer.png",
+        "title":"Web Development",
+        "description":"Ex amet ullamco esse labore excepteur occaecat adipisicing ut. Ea reprehenderit mollit excepteur minim aliquip tempor. Exercitation incididunt mollit esse irure voluptate eu anim. Irure velit officia commodo ipsum laboris exercitation elit ut. Aliqua elit ad fugiat commodo veniam quis elit."
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co/S71Y2Sh/ui-ux.png",
+        "title":"Graphics Design",
+        "description":"Ex amet ullamco esse labore excepteur occaecat adipisicing ut. Ea reprehenderit mollit excepteur minim aliquip tempor. Exercitation incididunt mollit esse irure voluptate eu anim. Irure velit officia commodo ipsum laboris exercitation elit ut. Aliqua elit ad fugiat commodo veniam quis elit."
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/r5ddGC7/video-editor.png",
+        "title":"Video Editing",
+        "description":"Ex amet ullamco esse labore excepteur occaecat adipisicing ut. Ea reprehenderit mollit excepteur minim aliquip tempor. Exercitation incididunt mollit esse irure voluptate eu anim. Irure velit officia commodo ipsum laboris exercitation elit ut. Aliqua elit ad fugiat commodo veniam quis elit."
+    }
+]

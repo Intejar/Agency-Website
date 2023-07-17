@@ -1,0 +1,29 @@
+[
+    {
+     "id":1,
+     "name":"Intejar Meherab",
+     "title":"Web Developer",
+     "designation":"Founder",
+     "status":"inactive",
+     "img":"https://i.ibb.co/K2vh3zH/0b7d26d4-de9b-4200-a9c6-8cc4507984c9.jpg",
+     "description":"Eu culpa duis officia reprehenderit. Duis do culpa ea qui incididunt velit ad reprehenderit commodo in officia cupidatat eu ut. Ex laborum proident laborum aute laborum."   
+    },
+    {
+     "id":2,
+     "name":"Intejar Meherab",
+     "title":"Web Developer",
+     "designation":"Founder",
+     "status":"inactive",
+     "img":"https://i.ibb.co/K2vh3zH/0b7d26d4-de9b-4200-a9c6-8cc4507984c9.jpg",
+     "description":"Eu culpa duis officia reprehenderit. Duis do culpa ea qui incididunt velit ad reprehenderit commodo in officia cupidatat eu ut. Ex laborum proident laborum aute laborum."   
+    },
+    {
+     "id":3,
+     "name":"Intejar Meherab",
+     "title":"Web Developer",
+     "designation":"Founder",
+     "status":"inactive",
+     "img":"https://i.ibb.co/K2vh3zH/0b7d26d4-de9b-4200-a9c6-8cc4507984c9.jpg",
+     "description":"Eu culpa duis officia reprehenderit. Duis do culpa ea qui incididunt velit ad reprehenderit commodo in officia cupidatat eu ut. Ex laborum proident laborum aute laborum."   
+    }
+]
