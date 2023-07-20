@@ -11,6 +11,7 @@ import Contact from "./components/Contact";
 const Home = () => {
   return (
     <Box
+      overflow="hidden"
       mt={8}
       // sx={{
       //   placeItems: "center",
@@ -49,7 +50,7 @@ const Home = () => {
         ></Box>
       </Box>
       <Qoute></Qoute>
-      <Box mx={5} my={5} height="80vh">
+      <Box mx={5} my={5} height="80vh" id="contact">
         <Box height="100%" width="100%" position="absolute">
           <Contact></Contact>
         </Box>
@@ -57,9 +58,17 @@ const Home = () => {
           bgcolor="#FFC700"
           // sx={{ borderRadius: " 150px  0  0 150px " }}
           height="30%"
+          width="8%"
+          position="absolute"
+          left={212}
+        ></Box>
+        <Box
+          bgcolor="#FFC700"
+          // sx={{ borderRadius: " 150px  0  0 150px " }}
+          height="10.125%"
           width="10%"
           position="absolute"
-          left={200}
+          left={280}
         ></Box>
       </Box>
     </Box>

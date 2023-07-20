@@ -1,3 +1,6 @@
 .box{
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.763) 0%, rgba(0, 0, 0, 0.73) 50%, yellow 50%,yellow 100%);
+   background-image: linear-gradient(to right,  black 0%,  black 50%, white 50%,white 100%);
+  
+   border: 1px solid white;
+   box-shadow: 400px black;
 }

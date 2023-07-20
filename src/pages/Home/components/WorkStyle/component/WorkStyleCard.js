@@ -10,7 +10,6 @@ import React, { useState } from "react";
 import ReactCardFlip from "react-card-flip";
 import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../../../../../utils/motion";
-import "./Style.css";
 
 const WorkStyleCard = ({ data }) => {
   const [isFlipped, setIsFlipped] = useState(false);
@@ -22,7 +21,7 @@ const WorkStyleCard = ({ data }) => {
     <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
       <Card
         sx={{ width: 275, height: 250, bgcolor: "black", color: "white" }}
-        onMouseDown={handleClick}
+        onMouseEnter={handleClick}
         className="card"
       >
         <CardContent>
@@ -53,8 +52,9 @@ const WorkStyleCard = ({ data }) => {
           height: 250,
           bgcolor: "black",
           color: "white",
+          overflow: "hidden",
         }}
-        onMouseOver={handleClick}
+        onMouseLeave={handleClick}
       >
         <CardContent>
           <Typography variant="caption">{data.description}</Typography>
